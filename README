@@ -1,0 +1,7 @@
+O primeiro arquivo a rodar seria o leitura.py que interpreta a base de dados inicial.
+
+Depois o arquivo iguala.py deixa a base balanceada entre valores diferentes e iguais para cobrado e pago.
+
+O arquivo base_treino.py serve para criar uma base menor onde um computador comum possa rodar a analise da rede neural.
+
+Por fim, o arquivo final.py roda toda a parte de machine learning desde pca ate a rede neural implementada.
